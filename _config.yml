@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
-title: Welcome to the course webpage for EE524 (Machine Learning Laboratory) !!!
+title: EE 524 Machine Learning Laboratory
 description: This is the course webpage for EE524. All announcements regarding tutorials, assignments, resources, deadlines will be posted here.
+show_downloads: false
+google_analytics:

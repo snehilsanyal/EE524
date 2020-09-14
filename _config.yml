@@ -3,3 +3,8 @@ title: EE 524 Machine Learning Laboratory
 description: This is the course webpage for EE524. All announcements regarding tutorials, assignments, resources, deadlines will be posted here.
 show_downloads: false
 google_analytics:
+github:
+  is_project_page: false
+  zip_url: false
+  tar_url: false
+  

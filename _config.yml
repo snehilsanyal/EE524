@@ -5,6 +5,3 @@ show_downloads: false
 google_analytics:
 github:
   is_project_page: false
-  zip_url: false
-  tar_url: false
-  

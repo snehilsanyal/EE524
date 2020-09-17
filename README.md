@@ -76,7 +76,7 @@ Submission Date: 20th September 2020
 **Nadeem Atif**: 
 Research Scholar, 
 EEE Department, IIT Guwahati |
-Email: atif176102103@iitg.ac.in|
+Email: atif176102103@iitg.ac.in |
 Contact: 7302099843
 
 ![Snehil Sanyal](https://media-exp1.licdn.com/dms/image/C4E03AQGWGKkj-EB8kg/profile-displayphoto-shrink_400_400/0?e=1605744000&v=beta&t=URObe58D2gszuqDR3JwmBpUJ21WJoCb2bhZdpaHbv_k)
@@ -84,11 +84,11 @@ Contact: 7302099843
 **Snehil Sanyal**:
 Research Scholar,
 EEE Department, IIT Guwahati |
-Email: ssanyal@iitg.ac.in|
+Email: ssanyal@iitg.ac.in |
 Contact: 9399690211 
 
 **H Balaji**:
 M.Tech 2nd year,
 EEE Department, IIT Guwahati |
-Email: hbalaji@iitg.ac.in|
+Email: hbalaji@iitg.ac.in |
 Contact: 9441791359

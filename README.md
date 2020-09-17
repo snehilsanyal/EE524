@@ -14,7 +14,7 @@ for i in range(10):
 ```
 
 
-As mentioned, in the [instruction manual](https://drive.google.com/drive/folders/109zI5MQ7jXmY-0sNRGy1VGqRi2nF7496) we will also use libraries like Numpy, Matplotlib, Pandas and Scikit-Learn.
+As mentioned, in the [instruction manual](https://drive.google.com/file/d/1WB9rOMm190cqKGt-76TFDTX6vgbtsUts/view?usp=sharing) we will also use libraries like Numpy, Matplotlib, Pandas and Scikit-Learn.
 > A breakthrough in Machine Learning 
 >
 > would be worth 10 microsofts. 
@@ -49,7 +49,7 @@ We have a total of 12 labs in this session. Everything will be online due to the
 
 - **Weekly Assignment:** Each Monday in the Outlook Group [Grp_grp_ee-524ml-lab](https://iitgoffice.sharepoint.com/sites/Grp_grp_ee-524ml-lab) and [Slack Channel](https://app.slack.com/client/T01A6UP4R9Q)
 - **Doubt Sessions:** Every Friday via [MS Teams](https://teams.microsoft.com/_#/school/conversations/General?threadId=19:a65717b18fe94e899fa357c2f8ace118@thread.tacv2&ctx=channel)
-- **Assignment Submission:** Every Sunday (EOD) in the assignments branch of this [github repository]().
+- **Assignment Submission:** Every Sunday (EOD) in the assignments branch of this [github repository](https://github.com/snehilsanyal/EE524/tree/assignments).
 ### Announcements:
 - **7th Sept 2020**: Assignment 1 has been released
 - **11th Sept 2020**: Doubt Session for Assignment 1 is over
@@ -64,7 +64,7 @@ We have a total of 12 labs in this session. Everything will be online due to the
 Release Date: 7th September 2020
 Doubt Session: 11th September 2020 
 Submission Date: 20th September 2020
-[Instruction Manual](https://drive.google.com/drive/folders/109zI5MQ7jXmY-0sNRGy1VGqRi2nF7496) | [PDF](https://drive.google.com/drive/folders/1xCGPPQ__xOPXzGLg5o47W4KKkrQECuG9) | [Resources]() | [Solution]() | [Colab Notebook]()
+[Instruction Manual](https://drive.google.com/file/d/1WB9rOMm190cqKGt-76TFDTX6vgbtsUts/view?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1xCGPPQ__xOPXzGLg5o47W4KKkrQECuG9) | [Resources]() | [Solution]() | [Colab Notebook]()
 
 2. **Assignment 2:**
 
@@ -73,7 +73,7 @@ Submission Date: 20th September 2020
 1. [Slack Channel EE524](https://app.slack.com/client/T01A6UP4R9Q) (For conversation and doubts)
 2. [Moodle Link](https://www.iitg.ac.in/moodle/course/view.php?id=790) (Theory course)
 3. [Outlook Group](https://iitgoffice.sharepoint.com/sites/Grp_grp_ee-524ml-lab)
-4. [Github Repository]() (For submitting assignments)
+4. [Github Repository](https://github.com/snehilsanyal/EE524/tree/assignments) (For submitting assignments)
 
 
 ### Resources:

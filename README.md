@@ -4,12 +4,16 @@ Hello friends... Hope you are safe and sound.
 I hope you are all excited to learn about Machine Learning. In this semester, you must be going through the Machine Learning Course offerred by Professor [Manas Kamal Bhuyan](https://www.iitg.ac.in/mkb/) sir. 
 
 This is the official course webpage for the course EE524 Machine Learning Laboratory which will complement the course Introduction to Machine Learning. We will be using [Python](https://www.python.org/) an open source software to run our codes.
+
+
 ```python
 import numpy as np
 import tensorflow as tf
 for i in range(10):
   print(i)
 ```
+
+
 As mentioned, in the [instruction manual](https://drive.google.com/drive/folders/109zI5MQ7jXmY-0sNRGy1VGqRi2nF7496) we will also use libraries like Numpy, Matplotlib, Pandas and Scikit-Learn.
 > A breakthrough in Machine Learning 
 >
@@ -24,6 +28,7 @@ As mentioned, in the [instruction manual](https://drive.google.com/drive/folders
 > 
 > -Dave Waters
 
+
 ### Objectives of this lab:
 1. Learn about the concepts in Machine Learning from data generation, handling, preprocessing.
 2. Learn about different algorithms in Machine Learning.
@@ -31,13 +36,16 @@ As mentioned, in the [instruction manual](https://drive.google.com/drive/folders
 4. Implement these concepts on your own.
 5. Create something as an outcome of this lab course.
 
+
 ### Lab evaluation Structure:
 - **Continuous Evaluations:** 50 Marks (Through Assignments)
 - **Viva:** 20 Marks (After all submissions)
 - **Mini Project:** 30 Marks (Will be given after 6th Lab Session)
 
+
 ### Timeline:
 We have a total of 12 labs in this session. Everything will be online due to the pandemic. We will try to complete most of the important algorithms required for you to have a good background in Machine Learning. We will be pushing assignments, have doubt sessions and will evaluate your assignments. Assignments will be weekly.
+
 
 - **Weekly Assignment:** Each Monday in the Outlook Group [Grp_grp_ee-524ml-lab](https://iitgoffice.sharepoint.com/sites/Grp_grp_ee-524ml-lab) and [Slack Channel](https://app.slack.com/client/T01A6UP4R9Q)
 - **Doubt Sessions:** Every Friday via [MS Teams](https://teams.microsoft.com/_#/school/conversations/General?threadId=19:a65717b18fe94e899fa357c2f8ace118@thread.tacv2&ctx=channel)
@@ -48,20 +56,25 @@ We have a total of 12 labs in this session. Everything will be online due to the
 - **17th Sept 2020**: Assignment Submission link is released
 - **20th Sept 2020**: Submission Deadline for Assignment 1
 
+
 ### Assignments:
+
 1. **Assignment 1 (Ungraded):**
 **Fundamentals of Python**
 Release Date: 7th September 2020
 Doubt Session: 11th September 2020 
 Submission Date: 20th September 2020
 [Instruction Manual](https://drive.google.com/drive/folders/109zI5MQ7jXmY-0sNRGy1VGqRi2nF7496) | [PDF](https://drive.google.com/drive/folders/1xCGPPQ__xOPXzGLg5o47W4KKkrQECuG9) | [Resources]() | [Solution]() | [Colab Notebook]()
+
 2. **Assignment 2:**
+
 
 ### Team communication:
 1. [Slack Channel EE524](https://app.slack.com/client/T01A6UP4R9Q) (For conversation and doubts)
 2. [Moodle Link](https://www.iitg.ac.in/moodle/course/view.php?id=790) (Theory course)
 3. [Outlook Group](https://iitgoffice.sharepoint.com/sites/Grp_grp_ee-524ml-lab)
 4. [Github Repository]() (For submitting assignments)
+
 
 ### Resources:
 1. [Python Course](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
@@ -75,6 +88,7 @@ Submission Date: 20th September 2020
  [SentDex](https://www.youtube.com/user/sentdex)|
  [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)|
  
+
 ### Teaching Assistants:
 ![Nadeem Atif](https://www.iitg.ac.in/mkb/wp-content/uploads/2019/07/Atif.png)
 

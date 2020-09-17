@@ -57,9 +57,9 @@ Submission Date: 20th September 2020
 5. [Pandas Tutorial](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 6. [Matplotlib Tutorial](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)
 7. Youtube channels for your reference:
- [Socratica](https://www.youtube.com/user/SocraticaStudios)
- [SentDex](https://www.youtube.com/user/sentdex)
- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+ [Socratica](https://www.youtube.com/user/SocraticaStudios)|
+ [SentDex](https://www.youtube.com/user/sentdex)|
+ [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)|
  ---
 ### Teaching Assistants:
 ![Nadeem Atif](https://www.iitg.ac.in/mkb/wp-content/uploads/2019/07/Atif.png)

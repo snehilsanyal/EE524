@@ -1,4 +1,4 @@
-Instructions for submission:
+#### Instructions for submission:
 
 1. Fork the repository
 2. Go to the assignments branch of the repository
@@ -10,4 +10,4 @@ to submit Assignment 1. GO inside assignment 1 and create a folder named
 
 
 Wait for us to check your code and merge the pull request.
-Dont worry about all this we will be telling you how to do it in a video interaction.
+#### Dont worry about all this we will be telling you how to do it in a video interaction.

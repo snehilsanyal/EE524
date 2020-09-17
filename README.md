@@ -14,13 +14,13 @@ As mentioned, in the [instruction manual](https://drive.google.com/drive/folders
 > A breakthrough in Machine Learning 
 >
 > would be worth 10 microsofts. 
--Bill Gates 
+> Bill Gates 
 
 
 > A baby learns to crawl, walk and then run.
 >
 > We are in the crawling stage, when it comes to applying Machine Learning.
--Dave Waters
+> Dave Waters
 
 ### Objectives of this lab:
 1. Learn about the concepts in Machine Learning from data generation, handling, preprocessing.
@@ -72,7 +72,6 @@ Submission Date: 20th September 2020
  [Socratica](https://www.youtube.com/user/SocraticaStudios)|
  [SentDex](https://www.youtube.com/user/sentdex)|
  [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)|
-
  
 ### Teaching Assistants:
 ![Nadeem Atif](https://www.iitg.ac.in/mkb/wp-content/uploads/2019/07/Atif.png)

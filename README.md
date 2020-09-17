@@ -1,5 +1,5 @@
 ## Welcome to EE524 (Jul-Nov 2020)
-Hello learners.
+Hello friends... Hope you are safe and sound.
 
 I hope you are all excited to learn about Machine Learning. In this semester, you must be going through the Machine Learning Course offerred by Professor [Manas Kamal Bhuyan](https://www.iitg.ac.in/mkb/) sir. 
 

@@ -15,14 +15,14 @@ As mentioned, in the [instruction manual](https://drive.google.com/drive/folders
 >
 > would be worth 10 microsofts. 
 > 
-> Bill Gates 
+> -Bill Gates 
 
 
 > A baby learns to crawl, walk and then run.
 >
 > We are in the crawling stage, when it comes to applying Machine Learning.
 > 
-> Dave Waters
+> -Dave Waters
 
 ### Objectives of this lab:
 1. Learn about the concepts in Machine Learning from data generation, handling, preprocessing.

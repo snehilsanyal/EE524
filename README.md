@@ -1,6 +1,8 @@
 ## Welcome to EE524 (Jul-Nov 2020)
-Hello Learners...
+Hello learners.
+
 I hope you are all excited to learn about Machine Learning. In this semester, you must be going through the Machine Learning Course offerred by Professor [Manas Kamal Bhuyan](https://www.iitg.ac.in/mkb/) sir. 
+
 This is the official course webpage for the course EE524 Machine Learning Laboratory which will complement the course Introduction to Machine Learning. We will be using [Python](https://www.python.org/) an open source software to run our codes.
 ```python
 import numpy as np
@@ -9,7 +11,8 @@ for i in range(10):
   print(i)
 ```
 As mentioned, in the [instruction manual](https://drive.google.com/drive/folders/109zI5MQ7jXmY-0sNRGy1VGqRi2nF7496) we will also use libraries like Numpy, Matplotlib, Pandas and Scikit-Learn.
-> A breakthrough in Machine Learning would be worth 10 microsofts. 
+> A breakthrough in Machine Learning 
+> would be worth 10 microsofts. 
 -Bill Gates 
 ### Objectives of this lab:
 1. Learn about the concepts in Machine Learning from data generation, handling, preprocessing.
@@ -61,9 +64,10 @@ Submission Date: 20th September 2020
  [Socratica](https://www.youtube.com/user/SocraticaStudios)|
  [SentDex](https://www.youtube.com/user/sentdex)|
  [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)|
- ---
+ ----
 ### Teaching Assistants:
 ![Nadeem Atif](https://www.iitg.ac.in/mkb/wp-content/uploads/2019/07/Atif.png)
+
 **Nadeem Atif**: 
 Research Scholar, 
 EEE Department, IIT Guwahati.
@@ -71,6 +75,7 @@ Email: atif176102103@iitg.ac.in
 Contact: 7302099843
 
 ![Snehil Sanyal](https://media-exp1.licdn.com/dms/image/C4E03AQGWGKkj-EB8kg/profile-displayphoto-shrink_400_400/0?e=1605744000&v=beta&t=URObe58D2gszuqDR3JwmBpUJ21WJoCb2bhZdpaHbv_k)
+
 **Snehil Sanyal**:
 Research Scholar,
 EEE Department, IIT Guwahati.

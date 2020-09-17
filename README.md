@@ -69,12 +69,14 @@ Research Scholar,
 EEE Department, IIT Guwahati.
 Email: atif176102103@iitg.ac.in
 Contact: 7302099843
-![Snehil Sanyal](https://media-exp1.licdn.com/dms/image/C5103AQFns_9cEdgHVQ/profile-displayphoto-shrink_200_200/0?e=1600300800&v=beta&t=VfjY4611TvOVc_hcUUURDDrktqFgdIkXkaH01HsJpcE)
+
+![Snehil Sanyal](https://media-exp1.licdn.com/dms/image/C4E03AQGWGKkj-EB8kg/profile-displayphoto-shrink_400_400/0?e=1605744000&v=beta&t=URObe58D2gszuqDR3JwmBpUJ21WJoCb2bhZdpaHbv_k)
 **Snehil Sanyal**:
 Research Scholar,
 EEE Department, IIT Guwahati.
 Email: ssanyal@iitg.ac.in 
 Contact: 9399690211 
+
 **H Balaji**:
 M.Tech 2nd year,
 EEE Department, IIT Guwahati.

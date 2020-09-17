@@ -14,12 +14,14 @@ As mentioned, in the [instruction manual](https://drive.google.com/drive/folders
 > A breakthrough in Machine Learning 
 >
 > would be worth 10 microsofts. 
+> 
 > Bill Gates 
 
 
 > A baby learns to crawl, walk and then run.
 >
 > We are in the crawling stage, when it comes to applying Machine Learning.
+> 
 > Dave Waters
 
 ### Objectives of this lab:

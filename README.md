@@ -1,5 +1,6 @@
 ## Welcome to EE524 (Jul-Nov 2020)
-Hello Learners, I hope you are all excited to learn about Machine Learning. In this semester, you must be going through the Machine Learning Course offerred by Professor [Manas Kamal Bhuyan](https://www.iitg.ac.in/mkb/) sir. 
+Hello Learners...
+I hope you are all excited to learn about Machine Learning. In this semester, you must be going through the Machine Learning Course offerred by Professor [Manas Kamal Bhuyan](https://www.iitg.ac.in/mkb/) sir. 
 This is the official course webpage for the course EE524 Machine Learning Laboratory which will complement the course Introduction to Machine Learning. We will be using [Python](https://www.python.org/) an open source software to run our codes.
 ```python
 import numpy as np

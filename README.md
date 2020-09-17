@@ -12,10 +12,13 @@ for i in range(10):
 ```
 As mentioned, in the [instruction manual](https://drive.google.com/drive/folders/109zI5MQ7jXmY-0sNRGy1VGqRi2nF7496) we will also use libraries like Numpy, Matplotlib, Pandas and Scikit-Learn.
 > A breakthrough in Machine Learning 
+>
 > would be worth 10 microsofts. 
 -Bill Gates 
 
+
 > A baby learns to crawl, walk and then run.
+>
 > We are in the crawling stage, when it comes to applying Machine Learning.
 -Dave Waters
 
@@ -69,7 +72,8 @@ Submission Date: 20th September 2020
  [Socratica](https://www.youtube.com/user/SocraticaStudios)|
  [SentDex](https://www.youtube.com/user/sentdex)|
  [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)|
- ----
+
+ 
 ### Teaching Assistants:
 ![Nadeem Atif](https://www.iitg.ac.in/mkb/wp-content/uploads/2019/07/Atif.png)
 

@@ -14,6 +14,11 @@ As mentioned, in the [instruction manual](https://drive.google.com/drive/folders
 > A breakthrough in Machine Learning 
 > would be worth 10 microsofts. 
 -Bill Gates 
+
+> A baby learns to crawl, walk and then run.
+> We are in the crawling stage, when it comes to applying Machine Learning.
+-Dave Waters
+
 ### Objectives of this lab:
 1. Learn about the concepts in Machine Learning from data generation, handling, preprocessing.
 2. Learn about different algorithms in Machine Learning.
@@ -70,20 +75,20 @@ Submission Date: 20th September 2020
 
 **Nadeem Atif**: 
 Research Scholar, 
-EEE Department, IIT Guwahati.
-Email: atif176102103@iitg.ac.in
+EEE Department, IIT Guwahati|
+Email: atif176102103@iitg.ac.in|
 Contact: 7302099843
 
 ![Snehil Sanyal](https://media-exp1.licdn.com/dms/image/C4E03AQGWGKkj-EB8kg/profile-displayphoto-shrink_400_400/0?e=1605744000&v=beta&t=URObe58D2gszuqDR3JwmBpUJ21WJoCb2bhZdpaHbv_k)
 
 **Snehil Sanyal**:
 Research Scholar,
-EEE Department, IIT Guwahati.
-Email: ssanyal@iitg.ac.in 
+EEE Department, IIT Guwahati|
+Email: ssanyal@iitg.ac.in|
 Contact: 9399690211 
 
 **H Balaji**:
 M.Tech 2nd year,
-EEE Department, IIT Guwahati.
-Email: hbalaji@iitg.ac.in
+EEE Department, IIT Guwahati|
+Email: hbalaji@iitg.ac.in|
 Contact: 9441791359

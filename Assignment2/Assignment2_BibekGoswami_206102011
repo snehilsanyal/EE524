@@ -1,0 +1,70 @@
+#question 1
+
+import random
+from matplotlib import pyplot as plt
+import numpy as np
+
+
+X = []
+
+for j in range(100): 
+    X.append(random.randint(-10, 10)) 
+  
+Y = []
+
+for i in range(len(X)):
+    temp = 2*X[i] + 3
+    Y.append(temp)
+
+Y_n = []
+
+sigma = np.std(X)
+
+for i in range(len(X)):
+    temp = 2*X[i] + 3 + sigma*(random.gauss(0,1))
+    Y_n.append(temp)
+    
+plt.plot(X,Y,color='black')
+plt.scatter(X,Y_n,color='red')
+plt.show()
+
+#question 2
+
+import decimal
+import random
+import numpy as np
+from matplotlib import pyplot as plt
+
+def float_range(start, stop, step):
+  while start < stop:
+    yield float(start)
+    start += decimal.Decimal(step)
+    
+    
+a = list(float_range(-10,10,0.1))
+b = list(float_range(-10,10,0.1))
+
+X = []
+
+for i in range(200):
+    X.append(random.randint(-10,10))
+    
+sigma = np.std(X)
+
+E = []
+
+for i in range(len(a)):
+    s = 0
+    for j in range(len(b)):
+        y = 2*X[i] + 3 + sigma*(random.gauss(0,1))
+        y_p = a[i]*X[i] + b[j]
+        e = y - y_p
+        s += (e*e)
+    s = s/len(b)
+    E.append(s)
+    
+fig = plt.figure()
+ax = plt.axes(projection='3d')
+ax.scatter3D(a, b, E);
+
+plt.show()

@@ -34,12 +34,8 @@ for i in range(0,len(a)):
         erval.append(abserr)
     erval_list.append(erval)
     
-
-
 errsurf=np.array(erval_list)
-
 ax1,ax2=np.meshgrid(a,b)
-
 
 
 # Plot the surface.
@@ -48,7 +44,6 @@ fig = plt.figure()
 ax = fig.gca(projection='3d')
 surf = ax.plot_surface(ax1, ax2, errsurf, cmap=cm.plasma,
                        linewidth=0, antialiased=False)
-#fig.colorbar(surf, shrink=0.5, aspect=5)
 fig.colorbar(surf, orientation="vertical", pad=0.05)
 ax.set_xlabel('a')
 ax.set_ylabel('b')

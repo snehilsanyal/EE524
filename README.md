@@ -55,19 +55,27 @@ We have a total of 12 labs in this session. Everything will be online due to the
 - **11th Sept 2020**: Doubt Session for Assignment 1 is over
 - **17th Sept 2020**: Assignment Submission link is released
 - **20th Sept 2020**: Submission Deadline for Assignment 1
+- **22nd Sept 2020**: Assignment 2 has been released
+- **25th Sept 2020**: Doubt session for submission and Assignment 2 is over
+- **4th Oct 2020**: Assignment 2 Submission Deadline.  
 
 
 ### Assignments:
 
 1. **Assignment 1 (Ungraded):**
-**Fundamentals of Python**
-Release Date: 7th September 2020
+**Fundamentals of Python**  
+Release Date: 7th September 2020  
 Doubt Session: 11th September 2020 
 Submission Date: 20th September 2020
+  
 [Instruction Manual](https://drive.google.com/file/d/1WB9rOMm190cqKGt-76TFDTX6vgbtsUts/view?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1xCGPPQ__xOPXzGLg5o47W4KKkrQECuG9) | [Resources]() | [Solution]() | [Colab Notebook]()
 
-2. **Assignment 2:**
+2. **Assignment 2 (Graded): Linear Regression and Error Surfaces**  
+Release Date: 22nd Sept 2020  
+Doubt Session: 2nd Oct 2020  
+Submission Date: 4th Oct 2020
 
+[Assignment](./Assignments/Assignment_2.pdf) |  [Resources]() | [Solution]() | [Colab Notebook]()
 
 ### Team communication:
 1. [Slack Channel EE524](https://app.slack.com/client/T01A6UP4R9Q) (For conversation and doubts)

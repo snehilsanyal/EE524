@@ -75,7 +75,7 @@ Release Date: 22nd Sept 2020
 Doubt Session: 2nd Oct 2020  
 Submission Date: 4th Oct 2020
 
-[Assignment](./Assignments/Assignment_2.pdf) |  [Resources]() | [Solution]() | [Colab Notebook]()
+[Assignment](Assignments/Assignment_2.pdf) |  [Resources]() | [Solution]() | [Colab Notebook]()
 
 ### Team communication:
 1. [Slack Channel EE524](https://app.slack.com/client/T01A6UP4R9Q) (For conversation and doubts)

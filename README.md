@@ -67,15 +67,13 @@ We have a total of 12 labs in this session. Everything will be online due to the
 Release Date: 7th September 2020  
 Doubt Session: 11th September 2020 
 Submission Date: 20th September 2020
-  
-[Instruction Manual](https://drive.google.com/file/d/1WB9rOMm190cqKGt-76TFDTX6vgbtsUts/view?usp=sharing)|[PDF](Assignments/Assignment_1.pdf)|[Resources]()|[Solution]()|[Colab Notebook]()
+[Instruction Manual](https://drive.google.com/file/d/1WB9rOMm190cqKGt-76TFDTX6vgbtsUts/view?usp=sharing) | [PDF](Assignments/Assignment_1.pdf) | [Resources]() | [Solution]() | [Colab Notebook]()
 
 2. **Assignment 2 (Graded): Linear Regression and Error Surfaces**  
 Release Date: 22nd Sept 2020  
 Doubt Session: 2nd Oct 2020  
 Submission Date: 4th Oct 2020
-
-[Assignment](Assignments/Assignment_2.pdf) | [Resources]()|[Solution]()|[Colab Notebook]()
+[Assignment](Assignments/Assignment_2.pdf) | [Resources]() | [Solution]() | [Colab Notebook]()
 
 ### Team communication:
 1. [Slack Channel EE524](https://app.slack.com/client/T01A6UP4R9Q) (For conversation and doubts)

@@ -68,7 +68,7 @@ Release Date: 7th September 2020
 Doubt Session: 11th September 2020 
 Submission Date: 20th September 2020
   
-[Instruction Manual](https://drive.google.com/file/d/1WB9rOMm190cqKGt-76TFDTX6vgbtsUts/view?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1xCGPPQ__xOPXzGLg5o47W4KKkrQECuG9) | [Resources]() | [Solution]() | [Colab Notebook]()
+[Instruction Manual](https://drive.google.com/file/d/1WB9rOMm190cqKGt-76TFDTX6vgbtsUts/view?usp=sharing) | [PDF](Assignments/Assignment_1.pdf) | [Resources]() | [Solution]() | [Colab Notebook]()
 
 2. **Assignment 2 (Graded): Linear Regression and Error Surfaces**  
 Release Date: 22nd Sept 2020  

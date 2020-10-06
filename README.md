@@ -73,7 +73,15 @@ Submission Date: 20th September 2020
 Release Date: 22nd Sept 2020  
 Doubt Session: 2nd Oct 2020  
 Submission Date: 4th Oct 2020  
-[Assignment](Assignments/Assignment_2.pdf) | [Resources]() | [Solution]() | [Colab Notebook]()
+[Assignment](Assignments/Assignment_2.pdf) | [Resources](https://machinelearningmastery.com/linear-regression-for-machine-learning/) | [Solution]() | [Colab Notebook]()
+
+
+2. **Assignment 3(a) (Graded): Basic Plotting**  
+Release Date: 7th Oct 2020  
+Doubt Session: 10th Oct 2020  
+Submission Date: 11th Oct 2020  
+[Assignment](Assignments/Assignment_3a.pdf) | [Resources](https://www.tutorialspoint.com/matplotlib/matplotlib_simple_plot.htm) | [Solution]() | [Colab Notebook]()
+
 
 ### Team communication:
 1. [Slack Channel EE524](https://app.slack.com/client/T01A6UP4R9Q) (For conversation and doubts)

@@ -76,11 +76,25 @@ Submission Date: 4th Oct 2020
 [Assignment](Assignments/Assignment_2.pdf) | [Resources](https://machinelearningmastery.com/linear-regression-for-machine-learning/) | [Solution]() | [Colab Notebook]()
 
 
-2. **Assignment 3(a) (Graded): Basic Plotting**  
+3. **Assignment 3(a) (Graded): Basic Plotting**  
 Release Date: 7th Oct 2020  
 Doubt Session: 10th Oct 2020  
 Submission Date: 11th Oct 2020  
 [Assignment](Assignments/Assignment_3a.pdf) | [Resources](https://www.tutorialspoint.com/matplotlib/matplotlib_simple_plot.htm) | [Solution]() | [Colab Notebook]()
+
+4. **Assignment 4 (Graded):**
+**Bayes Theorem and Naive Bayes Classifier**  
+Release Date: 17th October 2020  
+Doubt Session: 24th October 2020  
+Submission Date: 27th October 2020  
+[Assignment](Assignments/Assignment_4.pdf) | [Resources]() | [Solution]() | [Colab Notebook]()
+
+5. **Assignment 5 (Graded):**
+**K Nearest Neighbours and K Means Algorithm**  
+Release Date: 9th November 2020  
+Doubt Session: 13th November 2020  
+Submission Date: 15th November 2020  
+[Instruction Manual](Assignments/Assignment_5.pdf) | [Dataset](Assignments/dataset.csv) | [Solution]() | [Colab Notebook]()
 
 
 ### Team communication:

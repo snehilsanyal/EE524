@@ -51,6 +51,10 @@ We have a total of 12 labs in this session. Everything will be online due to the
 - **Doubt Sessions:** Every Friday via [MS Teams](https://teams.microsoft.com/_#/school/conversations/General?threadId=19:a65717b18fe94e899fa357c2f8ace118@thread.tacv2&ctx=channel)
 - **Assignment Submission:** Every Sunday (EOD) in the assignments branch of this [github repository](https://github.com/snehilsanyal/EE524/tree/assignments).
 ### Announcements:
+-**9th November 2020** Assignment 5 has been released
+-**17th Oct 2020** Assignment 4 has been released
+- **7th Oct 2020** Assignment 3 has been released
+- **22nd Sept 2020** Assignment 2 has been released
 - **7th Sept 2020**: Assignment 1 has been released
 - **11th Sept 2020**: Doubt Session for Assignment 1 is over
 - **17th Sept 2020**: Assignment Submission link is released
@@ -94,7 +98,7 @@ Submission Date: 27th October 2020
 Release Date: 9th November 2020  
 Doubt Session: 13th November 2020  
 Submission Date: 15th November 2020  
-[Instruction Manual](Assignments/Assignment_5.pdf) | [Dataset](Assignments/dataset.csv) | [Solution]() | [Colab Notebook]()
+[Assignment](Assignments/Assignment_5.pdf) | [Dataset](Assignments/dataset.csv) | [Solution]() | [Colab Notebook]()
 
 
 ### Team communication:

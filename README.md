@@ -122,11 +122,10 @@ Submission Date: 29th November 2020
 [Assignment](Assignments/Assignment6.pdf) | [Dataset](Assignments/dataset.csv) | [Solution](https://github.com/snehilsanyal/EE524/blob/assignments/Assignment6/SonuKumari_204102314/Assignment_6_ML_LAB.ipynb) 
 
 7. **Assignment 7 (Graded):**
-****  
 Release Date: 23rd November 2020  
 Submission Date: 29th November 2020  
 [Assignment](Assignments/Assignment7.pdf) | [Dataset](Assignments/dataset.csv) | [Solution](https://github.com/snehilsanyal/EE524/blob/assignments/Assignment7/BibekGoswami_206102011/Assignment_7.ipynb) 
-
+****
 
 ### Team communication:
 1. [Slack Channel EE524](https://app.slack.com/client/T01A6UP4R9Q) (For conversation and doubts)

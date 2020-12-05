@@ -1,7 +1,9 @@
 ## Welcome to EE524 (Jul-Nov 2020)
 
-## [Final submission for Projects: 6th December 2020]()
-## [Viva Examination on 6th and 7th December 2020]()
+
+
+### [Final submission for Projects: 6th December 2020]()
+### [Viva Examination on 6th and 7th December 2020]()
 
 Hello friends... Hope you are safe and sound.
 

@@ -1,0 +1,6 @@
+The data files could be found in the link given below:
+https://drive.google.com/drive/folders/1JN81Ytv94mu6euUe_8RYpx1_LOjV7z6A?usp=sharing
+
+Converting the images into vectors and storing in a numpy array along with the true labels: data_prep.py
+
+Face Recognition using Eigen Faces Algorithm: Eigenfaces.ipnyb

@@ -59,7 +59,7 @@ We have a total of 12 labs in this session. Everything will be online due to the
 
 
 - **Weekly Assignment:** Each Monday in the Outlook Group [Grp_grp_ee-524ml-lab](https://iitgoffice.sharepoint.com/sites/Grp_grp_ee-524ml-lab) and [Slack Channel](https://app.slack.com/client/T01A6UP4R9Q)
-- **Doubt Sessions:** Every Friday via [MS Teams](https://teams.microsoft.com/_#/school/conversations/General?threadId=19:a65717b18fe94e899fa357c2f8ace118@thread.tacv2&ctx=channel)
+- **Doubt Sessions:** Every Friday via [Microsoft Teams](https://teams.microsoft.com/_#/school/conversations/General?threadId=19:a65717b18fe94e899fa357c2f8ace118@thread.tacv2&ctx=channel)
 - **Assignment Submission:** Every Sunday (EOD) in the assignments branch of this [github repository](https://github.com/snehilsanyal/EE524/tree/assignments).
 
 ### Announcements:

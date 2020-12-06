@@ -150,13 +150,6 @@ Submission Date: 29th November 2020
  
 
 ### Teaching Assistants:
-![Nadeem Atif](https://www.iitg.ac.in/mkb/wp-content/uploads/2019/07/Atif.png)
-
-**Nadeem Atif**: 
-Research Scholar, 
-EEE Department, IIT Guwahati |
-Email: atif176102103@iitg.ac.in |
-Contact: 7302099843
 
 ![Snehil Sanyal](https://media-exp1.licdn.com/dms/image/C4E03AQGWGKkj-EB8kg/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=RWpiEuwwZH7xHJgb19TLXY2d9dBWY-TviPVdZ84vldQ)
 
@@ -165,6 +158,14 @@ Research Scholar,
 EEE Department, IIT Guwahati |
 Email: ssanyal@iitg.ac.in |
 Contact: 9399690211 
+
+![Nadeem Atif](https://www.iitg.ac.in/mkb/wp-content/uploads/2019/07/Atif.png)
+
+**Nadeem Atif**: 
+Research Scholar, 
+EEE Department, IIT Guwahati |
+Email: atif176102103@iitg.ac.in |
+Contact: 7302099843
 
 **H Balaji**:
 M.Tech 2nd year,

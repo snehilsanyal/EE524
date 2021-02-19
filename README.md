@@ -151,7 +151,7 @@ Submission Date: 29th November 2020
 
 ### Teaching Assistants:
 
-![Snehil Sanyal](https://media-exp1.licdn.com/dms/image/C4E03AQGWGKkj-EB8kg/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=RWpiEuwwZH7xHJgb19TLXY2d9dBWY-TviPVdZ84vldQ)
+![Snehil Sanyal](https://raw.githubusercontent.com/snehilsanyal/poem/master/IMG_0283.JPG)
 
 **Snehil Sanyal**:
 Research Scholar,
@@ -159,7 +159,6 @@ EEE Department, IIT Guwahati |
 Email: ssanyal@iitg.ac.in |
 Contact: 9399690211 
 
-![Nadeem Atif](https://www.iitg.ac.in/mkb/wp-content/uploads/2019/07/Atif.png)
 
 **Nadeem Atif**: 
 Research Scholar, 
